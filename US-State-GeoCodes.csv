@@ -1,0 +1,70 @@
+﻿State (FIPS),RegionCode, ,Name,Region,Division,Classification,ISO,ANSI-US,USPS,USCG,GPO,AP
+01,3,6,Alabama,South  ,East South Central  ,State,US-AL,AL,AL,AL,Ala.,Ala.
+02,4,9,Alaska,West  ,Pacific  ,State,US-AK,AK,AK,AK,Alaska,Alaska
+04,4,8,Arizona,West  ,Mountain  ,State,US-AZ,AZ,AZ,AZ,Ariz.,Ariz.
+05,3,7,Arkansas,South  ,West South Central  ,State,US-AR,AR,AR,AR,Ark.,Ark.
+06,4,9,California,West  ,Pacific  ,State,US-CA,CA,CA,CF,Calif.,Calif.
+08,4,8,Colorado,West  ,Mountain  ,State,US-CO,CO,CO,CL,Colo.,Colo.
+09,1,1,Connecticut,Northeast  ,New England  ,State,US-CT,CT,CT,CT,Conn.,Conn.
+10,3,5,Delaware,South  ,South Atlantic  ,State,US-DE,DE,DE,DL,Del.,Del.
+11,3,5,District of Columbia,South  ,South Atlantic  ,Federal district,US-DC,DC,DC,DC,D.C.,D.C.
+12,3,5,Florida,South  ,South Atlantic  ,State,US-FL,FL,FL,FL,Fla.,Fla.
+13,3,5,Georgia,South  ,South Atlantic  ,State,US-GA,GA,GA,GA,Ga.,Ga.
+15,4,9,Hawaii,West  ,Pacific  ,State,US-HI,HI,HI,HA,Hawaii,Hawaii
+16,4,8,Idaho,West  ,Mountain  ,State,US-ID,ID,ID,ID,Idaho,Idaho
+17,17,3,Illinois,Midwest  ,East North Central  ,State,US-IL,IL,IL,IL,Ill.,Ill.
+18,2,3,Indiana,Midwest  ,East North Central  ,State,US-IN,IN,IN,IN,Ind.,Ind.
+19,2,4,Iowa,Midwest  ,West North Central  ,State,US-IA,IA,IA,IA,Iowa,Iowa
+20,2,4,Kansas,Midwest  ,West North Central  ,State,US-KS,KS,KS,KA,Kans.,Kan.
+21,3,6,Kentucky,South  ,East South Central  ,State,US-KY,KY,KY,KY,Ky.,Ky.
+22,3,7,Louisiana,South  ,West South Central  ,State,US-LA,LA,LA,LA,La.,La.
+23,1,1,Maine,Northeast  ,New England  ,State,US-ME,ME,ME,ME,Maine,Maine
+24,3,5,Maryland,South  ,South Atlantic  ,State,US-MD,MD,MD,MD,Md.,Md.
+25,1,1,Massachusetts,Northeast  ,New England  ,State,US-MA,MA,MA,MS,Mass.,Mass.
+26,2,3,Michigan,Midwest  ,East North Central  ,State,US-MI,MI,MI,MC,Mich.,Mich.
+27,2,4,Minnesota,Midwest  ,West North Central  ,State,US-MN,MN,MN,MN,Minn.,Minn.
+28,3,6,Mississippi,South  ,East South Central  ,State,US-MS,MS,MS,MI,Miss.,Miss.
+29,2,4,Missouri,Midwest  ,West North Central  ,State,US-MO,MO,MO,MO,Mo.,Mo.
+30,4,8,Montana,West  ,Mountain  ,State,US-MT,MT,MT,MT,Mont.,Mont.
+31,2,4,Nebraska,Midwest  ,West North Central  ,State,US-NE,NE,NE,NB,Nebr.,Neb.
+32,4,8,Nevada,West  ,Mountain  ,State,US-NV,NV,NV,NV,Nev.,Nev.
+33,1,1,New Hampshire,Northeast  ,New England  ,State,US-NH,NH,NH,NH,N.H.,N.H.
+34,1,2,New Jersey,Northeast  ,Middle Atlantic  ,State,US-NJ,NJ,NJ,NJ,N.J.,N.J.
+35,4,8,New Mexico,West  ,Mountain  ,State,US-NM,NM,NM,NM,N. Mex.,N.M.
+36,1,2,New York,Northeast  ,Middle Atlantic  ,State,US-NY,NY,NY,NY,N.Y.,N.Y.
+37,3,5,North Carolina,South  ,South Atlantic  ,State,US-NC,NC,NC,NC,N.C.,N.C.
+38,2,4,North Dakota,Midwest  ,West North Central  ,State,US-ND,ND,ND,ND,N. Dak.,N.D.
+39,2,3,Ohio,Midwest  ,East North Central  ,State,US-OH,OH,OH,OH,Ohio,Ohio
+40,3,7,Oklahoma,South  ,West South Central  ,State,US-OK,OK,OK,OK,Okla.,Okla.
+41,4,9,Oregon,West  ,Pacific  ,State,US-OR,OR,OR,OR,Oreg.,Ore.
+42,1,2,Pennsylvania,Northeast  ,Middle Atlantic  ,State,US-PA,PA,PA,PA,Pa.,Pa.
+44,1,1,Rhode Island,Northeast  ,New England  ,State,US-RI,RI,RI,RI,R.I.,R.I.
+45,3,5,South Carolina,South  ,South Atlantic  ,State,US-SC,SC,SC,SC,S.C.,S.C.
+46,2,4,South Dakota,Midwest  ,West North Central  ,State,US-SD,SD,SD,SD,S. Dak.,S.D.
+47,3,6,Tennessee,South  ,East South Central  ,State,US-TN,TN,TN,TN,Tenn.,Tenn.
+48,3,7,Texas,South  ,West South Central  ,State,US-TX,TX,TX,TX,Tex.,Texas
+49,4,8,Utah,West  ,Mountain  ,State,US-UT,UT,UT,UT,Utah,Utah
+50,1,1,Vermont,Northeast  ,New England  ,State,US-VT,VT,VT,VT,Vt.,Vt.
+51,3,5,Virginia,South  ,South Atlantic  ,State,US-VA,VA,VA,VA,Va.,Va.
+53,4,9,Washington,West  ,Pacific  ,State,US-WA,WA,WA,WN,Wash.,Wash.
+54,3,5,West Virginia,South  ,South Atlantic  ,State,US-WV,WV,WV,WV,W. Va.,W.Va.
+55,2,3,Wisconsin,Midwest  ,East North Central  ,State,US-WI,WI,WI,WS,Wis.,Wis.
+56,4,8,Wyoming,West  ,Mountain  ,State,US-WY,WY,WY,WY,Wyo.,Wyo.
+,,, American Samoa,,,Insular area (Territory),AS,AS,AS,AS,A.S.,
+,,, Guam,,,Insular area (Territory),GU,GU,GU,GU,Guam,
+,,, Northern Mariana Islands,,,Insular area (Commonwealth),MP,MP,MP,CM,M.P.,
+,,, Puerto Rico,,,Insular area (Commonwealth),PR,PR,PR,PR,P.R.,
+,,, U.S. Virgin Islands,,,Insular area (Territory),VI,VI,VI,VI,V.I.,
+,,,U.S. Minor Outlying Islands,,,Insular areas,UM,UM,,,,
+,,,   Baker Island,,,   island,UM-81,,,,,
+,,,   Howland Island,,,   island,UM-84,,,,,
+,,,   Jarvis Island,,,   island,UM-86,,,,,
+,,,   Johnston Atoll,,,   atoll,UM-67,,,,,
+,,,   Kingman Reef,,,   atoll,UM-89,,,,,
+,,,   Midway Islands,,,   atoll,UM-71,,,,,
+,,,   Navassa Island,,,   island,UM-76,,,,,
+,,,   Palmyra Atoll[c],,,   atoll[c],UM-95,,,,,
+,,,   Wake Island,,,   atoll,UM-79,,,,,
+,,, Micronesia,,,Freely associated state,FM,FM,FM,,,
+,,, Marshall Islands,,,Freely associated state,MH,MH,MH,,,
+,,, Palau,,,Freely associated state,PW,PW,PW,,,
